@@ -7,6 +7,8 @@
 # Within a directory, every time there are files
 # that have the same name (ignoring case),
 # print the directory and the same name files in it.
+#
+# OUTPUT: nothing changes. Just prints the duplicate files.
 
 # Check if a directory path is provided
 if [ -z "$1" ]; then
